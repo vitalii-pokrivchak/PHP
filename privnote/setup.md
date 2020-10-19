@@ -3,7 +3,7 @@
 - ### `Run Terminal (Ctrl + Alt + T)`
 - ### Enter `sudo crontab -e`
 - ### Enter password for `root` user
-- ### Paste this `* * * * * php /home/{user}/{directory}/php_automation/automation.php`
+- ### Paste this `* * * * * php /home/{user}/{directory}/automation.php`
 - ### Press `Ctrl + O` and confirm
 - ### Exit (`Ctrl + X` or `Ctrl + Z`)
-- ### Have a nice coding :)
+- ### Have a nice coding :smile:
