@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a61838c-8ec6-4ca7-b4e1-9522ec280c7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/1/phish.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/1/suckers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/2/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/2/send.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j8SUPrP0zntXW6Cu8dsIwhsHsk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a61838c-8ec6-4ca7-b4e1-9522ec280c7c" name="Default Changelist" comment="" />
+      <created>1603184240525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603184240525</updated>
+      <workItem from="1603184241733" duration="30000" />
+      <workItem from="1603200582611" duration="2026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="114" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603201657171">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="416" y="114" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1603201657171" />
+    <state x="501" y="291" width="354" height="141" key="NewPhpFileDialog" timestamp="1603201979172">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="501" y="291" width="354" height="141" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1603201979172" />
+    <state x="347" y="161" key="run.anything.popup" timestamp="1603201202692">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="161" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1603201202692" />
+  </component>
+</project>
