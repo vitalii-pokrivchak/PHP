@@ -6,4 +6,4 @@
 - ### Paste this `* * * * * php /home/{user}/{directory}/automation.php`
 - ### Press `Ctrl + O` and confirm
 - ### Exit (`Ctrl + X` or `Ctrl + Z`)
-- ### Have a nice coding :smile:
+- ### Have a nice coding :)

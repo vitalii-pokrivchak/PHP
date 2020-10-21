@@ -4,7 +4,6 @@ define('IVLEN',openssl_cipher_iv_length(CIPHER));
 function checkNote($note)
 {
     return file_exists(build_file_path(NOTE_STORAGE,$note,'txt'));
-
 }
 
 function build_redirect_url($action, $parameter, $value)

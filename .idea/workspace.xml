@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a61838c-8ec6-4ca7-b4e1-9522ec280c7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworks/second_module/1/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/second_module/1/phish.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/second_module/1/suckers.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/second_module/2/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/second_module/2/send.php" afterDir="false" />
+    <list default="true" id="6a61838c-8ec6-4ca7-b4e1-9522ec280c7c" name="Default Changelist" comment="successfully complete first homework from second module">
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/2/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/2/views/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/second_module/2/views/master.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privnote/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/privnote/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privnote/setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/privnote/setup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privnote/views/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/privnote/views/form.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +36,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,10 +57,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homeworks/second_module/2/views" />
+      <recent name="$PROJECT_DIR$/homeworks/second_module/2" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,25 +78,64 @@
       <option name="presentableId" value="Default" />
       <updated>1603184240525</updated>
       <workItem from="1603184241733" duration="30000" />
-      <workItem from="1603200582611" duration="2026000" />
+      <workItem from="1603200582611" duration="9272000" />
+      <workItem from="1603212229517" duration="4000" />
+      <workItem from="1603310951039" duration="5687000" />
     </task>
+    <task id="LOCAL-00001" summary="successfully complete first homework from second module">
+      <created>1603202827015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603202827015</updated>
+    </task>
+    <task id="LOCAL-00002" summary="successfully complete first homework from second module">
+      <created>1603202996944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603202996944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="successfully complete first homework from second module" />
+    <option name="LAST_COMMIT_MESSAGE" value="successfully complete first homework from second module" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="416" y="114" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603201657171">
+    <state x="416" y="114" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603315505527">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="416" y="114" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1603201657171" />
-    <state x="501" y="291" width="354" height="141" key="NewPhpFileDialog" timestamp="1603201979172">
+    <state x="416" y="114" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1603315505527" />
+    <state x="240" y="0" width="876" height="731" key="CommitChangelistDialog2" timestamp="1603212203942">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="501" y="291" width="354" height="141" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1603201979172" />
+    <state x="240" y="0" width="876" height="731" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1603212203942" />
+    <state x="501" y="291" width="354" height="141" key="NewPhpFileDialog" timestamp="1603314904819">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="501" y="291" width="354" height="141" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1603314904819" />
+    <state x="278" y="100" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1603203004790">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="278" y="100" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603203004790" />
     <state x="347" y="161" key="run.anything.popup" timestamp="1603201202692">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
